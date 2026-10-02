@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jithendra 👋
 
-<!--
-**Pulibandla-Jithendra/Pulibandla-Jithendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd year **CSE** student at **VVITU, Guntur**, building my foundation in software development and **seeking SDE internships**.
 
-Here are some ideas to get you started:
+## What I'm learning
+- **Java** and object-oriented programming
+- **Data Structures & Algorithms**, practiced regularly on LeetCode
+- **SQL** and **Spring Boot**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Projects
+I'm building projects from scratch in Java and Spring Boot. They'll appear here as I finish them.
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/pulibandla-jithendra-venkata-siva-sai-b0a985397/) · [LeetCode](https://leetcode.com/u/PULIBANDLAJITHENDRA/)
